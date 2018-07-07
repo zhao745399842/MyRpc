@@ -21,7 +21,8 @@ import com.my.rpc.spring.Service;
 import com.my.test.api.User;
 
 public class RpcRegist {
-	
+
+
 	public void start(int port){
 	   EventLoopGroup boss=new NioEventLoopGroup();
 	   EventLoopGroup work=new NioEventLoopGroup();

@@ -3,8 +3,7 @@ package com.my.test.privader;
 public class TestCommit {
 
     public static void main(String[] args){
-        //测是冲突
-        System.out.println("你好我是第6次修改");
+        System.out.println("你好我是第6次修改？");
     }
 
 

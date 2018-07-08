@@ -3,6 +3,9 @@ package com.my.test.consume;
 import com.my.rpc.consume.RpcProxy;
 import com.my.test.api.User;
 
+/**
+ * dfsdfsdf
+ */
 public class UserInfoConsume {
 
 	public static void main(String[] args) {
